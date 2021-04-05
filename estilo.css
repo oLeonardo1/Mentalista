@@ -1,0 +1,55 @@
+body{
+    background-image: url('https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/15.jpg');
+      background-size: cover;
+    font-family: Recursive;
+  }
+  
+  .container{
+    text-align: center;
+  }
+  
+  h1{
+    color: black;
+  }
+  
+  h2{
+    color: darkgray;
+  }
+  
+   #n {
+     outline: none;
+      display: block;
+      margin: 0 auto;
+      padding: 10px 55px;
+      border-radius:10px;
+      border:0;
+      margin-top: 10px;
+     text-align: center;
+    }
+  
+  button{
+    outline: none;
+    border: 0;
+      color: #ffffff;
+      background: #383e56;
+      font-weight:bold;
+      padding: 10px 30px;
+      font-size: 16px;
+      border-radius: 20px 1px 20px 1px;
+      margin-top: 20px;
+      cursor: pointer;
+  }
+  
+  button:hover {
+    outline: none;
+    color: #000;
+      background: #ffff;
+    }
+  
+  button:disabled {
+    opacity: 50%;
+  }
+  
+  h3{
+    font-size: 25px;
+  }
