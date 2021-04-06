@@ -1,6 +1,12 @@
 body{
     background-image: url('https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/15.jpg');
-      background-size: cover;
+          background-size: cover;
+  background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-bottom: 20vh;
+  min-height: 854px;
     font-family: Recursive;
   }
   
